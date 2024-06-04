@@ -17,4 +17,5 @@ var ModelList = []string{
 	"bge-large-zh",
 	"bge-large-en",
 	"tao-8k",
+	"百度千帆",
 }
